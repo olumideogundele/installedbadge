@@ -90,7 +90,7 @@
     
         <div>
             <div class="app">
-                <h1>Badge Example</h1>
+                <h1>Badge in php Example</h1>
                 <div id="deviceready" class="blink">
                     <p class="event listening">Connecting to Device</p>
                     <p class="event received">Device is Ready</p>
